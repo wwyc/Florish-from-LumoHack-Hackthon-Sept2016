@@ -1,4 +1,4 @@
-# Project-for-LumoHack-Hackthon-Sept2016
+# LumoHack-Hackthon-Sept2016 Project
 
 Name of App:  Florish
 
