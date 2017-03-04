@@ -8,4 +8,5 @@ Name of App:  Florish
 first place winner for the LumoHack Hackathon:  
 - won tickets and booth at SociaLight conference (Nov 2016) with booth and stage time to pitch project idea
 
+http://lumohacks.com/
 
